@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<img src="https://storage.googleapis.com/baird-dev-bucket/Pink%20Neon%20Noir%20_%20Vaporwave%20E-sports%20Animated%20Logo(3).gif" width="200" height="200">
 </div>
 
 # Hello, I am Chris <a href="https://www.chrisbaird.dev"><img src="https://img.shields.io/badge/chrisbaird.dev-Portfolio-orange"></a> <a href="https://www.linkedin.com/in/c-baird/"><img src="https://img.shields.io/badge/c--baird-LinkedIn-blue"></a>
