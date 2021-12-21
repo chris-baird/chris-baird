@@ -10,9 +10,10 @@ I am a 35-year-old software engineer with four years of professional experience 
 
 ## Full-Stack Web Developer, Coding Tutor
 
-- Proficient with JavaScript<br>
-- Loves learning new technologies<br>
+- Proficient with JavaScript Ruby Python Java C++<br>
+- Loves learning new technologies and reverse engineering<br>
 - Inspirational and educational
+- Breaker of software
 
 ## My Tech Stack
 
