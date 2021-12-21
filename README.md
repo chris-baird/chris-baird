@@ -17,64 +17,36 @@ I am a 35-year-old software engineer with four years of professional experience 
 
 ## My Tech Stack
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-	      <span><strong>JavaScript</strong></span><br><br><br>
-        <img height="100px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>React</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Node</strong></span><br><br><br>
-        <img height="100px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>MongoDB</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Docker</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>MySQL</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Ruby</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Firebase</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Linux</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
-      </td>
-    </tr>
-
-  </tbody>
-</table>
-
+<section style="display:flex; flex-wrap:wrap;">
+  <div style="margin: 5px;
+  padding:5px;"><img height="100px" src="https://cdn.svgporn.com/logos/javascript.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="64px" src="https://cdn.svgporn.com/logos/python.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="64px" src="https://cdn.svgporn.com/logos/java.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="64px" src="https://cdn.svgporn.com/logos/react.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="100px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="64px" src="https://cdn.svgporn.com/logos/docker.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg"></div>
+  <div style="margin: 5px;
+  padding:5px;"><img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg"></div>
+</section>
 ![Chris' github stats](https://github-readme-stats.vercel.app/api/?username=chris-baird&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
